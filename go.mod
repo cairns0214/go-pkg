@@ -1,4 +1,4 @@
-module go-pkg
+module pkg
 
 go 1.15
 
