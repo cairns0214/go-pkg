@@ -1,4 +1,4 @@
-module pkg
+module github.com/cairns0214/go-pkg
 
 go 1.15
 
